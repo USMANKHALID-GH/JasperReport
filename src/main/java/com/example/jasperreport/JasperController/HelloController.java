@@ -93,7 +93,7 @@ public class HelloController {
         map.put("Adi", "bosver");
         map.put("adress", "Elazig Merkez Abdullahpasi ahmet kabaklik yurdu turkiye");
         map.put("tel", "123456789");
-        
+
         map.put("kargo", 45.9);
 
         JasperReport report= JasperCompileManager.compileReport(path);
